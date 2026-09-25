@@ -1,4 +1,4 @@
-# Salesforce Chat
+# Salesforce Document Chatbot
 
 An experimental **Salesforce question-answering chatbot** with a Streamlit interface, a LangChain conversational agent and a persisted LlamaIndex document index.
 
